@@ -2,7 +2,7 @@
 # Aim
 To study and implement Inheritance
 
-# Apparatus
+# Software
 Vs Code
 
 # Theory
