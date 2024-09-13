@@ -1,4 +1,4 @@
-# Experiment 14
+# To study and implement Inheritance
 # Aim
 To study and implement Inheritance
 
@@ -64,9 +64,10 @@ The access specifier used during inheritance determines the accessibility of bas
 - **Polymorphism**: Supports the creation of more flexible and extensible systems by allowing derived classes to override base class methods.
 .
 
-# codes
-
+# codes 1
 ```
+//Shivendra Dwivedi
+//23070123122
 #include <iostream>
 #include <string>
 using namespace std;
@@ -94,9 +95,11 @@ int main()
     u1.discipline();
     cout<<u1.uni+" "+u1.dept;
 }
-
-
 ```
+# Code 2
+```
+//Shivendra Dwivedi
+//23070123122
 #include <iostream>
 #include <string>
 using namespace std;
@@ -137,17 +140,12 @@ int main()
     f2.type();
     cout<<"("<<f2.seater<<")"<<endl<<"MILEAGE: "<<f2.mileage<<endl;
 }
+```
+# Code 3
 
 ```
-/tmp/DGZYnVTYlm.o
-black
-ford ecosport
-(6 seater)
-MILEAGE: 6 kmpl
-```
-
-
-```
+//Shivendra Dwivedi
+//23070123122
 #include <iostream>
 #include <string>
 using namespace std;
@@ -185,7 +183,10 @@ int main() {
     return 0;
 }
 ```
+# Code 4
 ```
+//Shivendra Dwivedi
+//23070123122
 #include <iostream>
 #include <string>
 using namespace std;
